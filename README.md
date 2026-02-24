@@ -27,3 +27,12 @@ K2 clears all blocks
 blocks explode if
 ball stuck > 1 sec
 (can be disabled on menu)
+
+Install instruction:
+
+To Install from GitHub (recommended)
+
+    Open Maiden on your norns.
+    In the Maiden REPL, run:
+
+;install https://github.com/AUDIOWANDERER/Ball-O-rama
