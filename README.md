@@ -1,8 +1,8 @@
 # Ball-O-rama
 Another Norns script inspired by breakout games
 
-Be the ball
-each block hit by
+Be the ball...
+Each block hit by
 the ball triggers a note
 
 (best with grid)
